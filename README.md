@@ -1,1 +1,1 @@
-![App Screenshot](Pictures/Preview.PNG)
+![App Screenshot](ArnieShopFinal/Pictures/Preview.PNG)
